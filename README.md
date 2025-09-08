@@ -16,7 +16,7 @@ Proyek ini mengonfigurasi Claude Desktop untuk mengakses dokumentasi platform SA
 ## 1. Implementation Steps
 
 ### Step 1: Install Claude Desktop
-Lihat panduan lengkap di: [INSTALLATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/INSTALLATION.md)
+Lihat panduan lengkap di: [CLAUDE_DESKTOP_INSTALLATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/CLAUDE_DESKTOP_INSTALLATION.md)
 
 ### Step 2: Setup Claude Desktop
 Lihat panduan lengkap di: [DESKTOP_CONFIGURATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/DESKTOP_CONFIGURATION.md)
