@@ -1,4 +1,4 @@
-# SATUSEHAT Knowledge Base - Claude Project Setup
+# SATUSEHAT Knowledge Base - Claude Desktop, MCP, and Project Setup
 
 ## Project Overview
 Proyek ini mengonfigurasi Claude Desktop untuk mengakses dokumentasi platform SATUSEHAT secara dinamis menggunakan MCP (Model Context Protocol), menggantikan metode scraping tradisional.
