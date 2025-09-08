@@ -18,7 +18,7 @@ Proyek ini mengonfigurasi Claude Desktop untuk mengakses dokumentasi platform SA
 ### Step 1: Install Claude Desktop
 Lihat panduan lengkap di: [CLAUDE_DESKTOP_INSTALLATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/CLAUDE_DESKTOP_INSTALLATION.md)
 
-### Step 2: Setup Claude Desktop
+### Step 2: Setup Claude Desktop MCP
 Lihat panduan lengkap di: [DESKTOP_CONFIGURATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/DESKTOP_CONFIGURATION.md)
 
 ### Step 3: Create Claude Project
