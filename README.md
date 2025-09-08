@@ -15,19 +15,22 @@ Proyek ini mengonfigurasi Claude Desktop untuk mengakses dokumentasi platform SA
 
 ## 1. Implementation Steps
 
-### Step 1: Setup Claude Desktop
+### Step 1: Install Claude Desktop
+Lihat panduan lengkap di: [INSTALLATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/INSTALLATION.md)
+
+### Step 2: Setup Claude Desktop
 Lihat panduan lengkap di: [DESKTOP_CONFIGURATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/DESKTOP_CONFIGURATION.md)
 
-### Step 2: Create Claude Project
+### Step 3: Create Claude Project
 Lihat panduan lengkap di: [PROJECT_SETUP.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/PROJECT_SETUP.md)
 
-### Step 3: Testing & Validation
+### Step 4: Testing & Validation
 Test dengan sample queries:
 - **Brave Test**: "Apa itu platform SATUSEHAT secara umum?"
 - **Tavily Test**: "Bagaimana implementasi Patient resource untuk rawat jalan?"
 - **Mixed Test**: "Jelaskan proses authentication dan berikan contoh request"
 
-### Step 4: Optimization
+### Step 5: Optimization
 - Monitor response quality dan adjust routing jika perlu
 - Update Project Instructions berdasarkan usage patterns
 - Add specific URLs ke favorites untuk quick access
