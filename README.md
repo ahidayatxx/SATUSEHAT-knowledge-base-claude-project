@@ -16,15 +16,10 @@ Proyek ini mengonfigurasi Claude Desktop untuk mengakses dokumentasi platform SA
 ## 1. Implementation Steps
 
 ### Step 1: Setup Claude Desktop
-1. Pastikan Tavily MCP dan Brave MCP sudah dikonfigurasi di `claude_desktop_config.json`
-2. Restart Claude Desktop setelah konfigurasi
-3. Verifikasi kedua MCP servers aktif
+Lihat panduan lengkap di: [DESKTOP_CONFIGURATION.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/DESKTOP_CONFIGURATION.md)
 
 ### Step 2: Create Claude Project
-1. Buka Claude Desktop
-2. Create New Project dengan nama "SATUSEHAT Knowledge Base"
-3. Copy-paste Project Instructions di atas ke dalam project settings
-4. Save dan activate project
+Lihat panduan lengkap di: [PROJECT_SETUP.md](https://github.com/ahidayatxx/SATUSEHAT-knowledge-base-claude-project/blob/master/PROJECT_SETUP.md)
 
 ### Step 3: Testing & Validation
 Test dengan sample queries:
