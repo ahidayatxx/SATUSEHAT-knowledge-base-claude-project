@@ -3,6 +3,9 @@
 ## MCP Server Configuration
 Tambahkan konfigurasi berikut ke file `claude_desktop_config.json`:
 
+- [Tavily MCP](https://github.com/tavily-ai/tavily-mcp)
+- [Brave MCP](https://github.com/brave/brave-search-mcp-server)
+
 ```json
 {
   "mcpServers": {
