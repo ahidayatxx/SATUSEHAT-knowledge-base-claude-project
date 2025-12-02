@@ -87,10 +87,13 @@ satusehat-knowledge-base/
 - [ ] Verify MCP servers operational
 
 **Skill Installation**
-- [ ] Download satusehat-knowledge-base.skill file
-- [ ] Double-click to install in Claude Desktop
-- [ ] Restart Claude Desktop if needed
-- [ ] Verify skill appears in available skills
+- [ ] Download SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip file
+- [ ] Open Claude Desktop application
+- [ ] Go to Settings → Capabilities → Skills
+- [ ] Click "Upload skill" button
+- [ ] Select SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip file
+- [ ] Wait for upload to complete
+- [ ] Toggle skill ON to enable it
 
 **Verification**
 - [ ] Test general query (Brave): "Apa itu SATUSEHAT?"

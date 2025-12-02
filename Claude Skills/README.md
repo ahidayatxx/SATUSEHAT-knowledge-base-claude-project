@@ -574,4 +574,4 @@ Before deploying to production:
 **Status**: Production Ready  
 **Maintained By**: SATUSEHAT Integration Community
 
-**Get Started Now**: Double-click `satusehat-knowledge-base.skill` to install! 🚀
+**Get Started Now**: Upload `SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip` via Settings → Capabilities → Skills → Upload skill! 🚀

@@ -442,8 +442,8 @@ curl -X POST "https://api.tavily.com/search" \
 # 1. Package skill
 python3 scripts/package_skill.py /path/to/satusehat-knowledge-base
 
-# 2. Distribute .skill file
-# Users double-click to install
+# 2. Distribute .zip file
+# Users upload via Settings → Capabilities → Skills → Upload skill
 
 # 3. Verify installation
 # Check ~/.claude/skills/ directory
