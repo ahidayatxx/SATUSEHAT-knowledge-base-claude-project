@@ -28,9 +28,19 @@ For detailed MCP setup instructions, refer to:
 
 ### Step 1: Install the Skill
 
-1. Download the `satusehat-knowledge-base.skill` file
-2. Double-click the `.skill` file to install it in Claude Desktop
-3. Claude Desktop will automatically extract and configure the skill
+1. Download the `SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip` file
+2. Open Claude Desktop application
+3. Go to **Settings** → **Capabilities** → **Skills**
+4. Click **"Upload skill"** button
+5. Select the `SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip` file
+6. Wait for the upload to complete
+7. Toggle the skill **ON** to enable it
+
+**Important Notes:**
+- The ZIP file must contain a folder with the `SKILL.md` file inside
+- Do NOT extract the ZIP file before uploading
+- Ensure you have administrative permissions if using a work account
+- Skills may need to be enabled by organization administrators for enterprise accounts
 
 ### Step 2: Verify Installation
 

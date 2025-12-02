@@ -10,9 +10,12 @@ You now have **two options** for uploading to Claude Desktop:
 
 **Steps**:
 1. Open Claude Desktop
-2. Go to Settings → Skills → Add Skill
-3. Upload `SATUSEHAT-Knowledge-Base.skill`
-4. Done!
+2. Go to **Settings** → **Capabilities** → **Skills**
+3. Click **"Upload skill"** button
+4. Select `SATUSEHAT-Knowledge-Base.skill` file
+5. Wait for upload to complete
+6. Toggle skill **ON** to enable it
+7. Done!
 
 **Use this when**: You just want to install and start using immediately.
 
@@ -31,9 +34,16 @@ You now have **two options** for uploading to Claude Desktop:
 - `SATUSEHAT_SKILL_SUMMARY.md` - Implementation roadmap
 
 **Steps**:
-1. Download and extract `SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip`
-2. Upload `satusehat-knowledge-base.skill` to Claude Desktop
-3. Keep documentation files for reference
+1. Download the `SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip` file
+2. Open Claude Desktop
+3. Go to **Settings** → **Capabilities** → **Skills**
+4. Click **"Upload skill"** button
+5. Select the `SATUSEHAT-Knowledge-Base-Skill-v1.0.0.zip` file
+6. Wait for upload to complete
+7. Toggle skill **ON** to enable it
+8. Keep documentation files for reference
+
+**Important**: Do NOT extract the ZIP file before uploading. Claude Desktop expects the ZIP to contain a folder structure with the SKILL.md file inside.
 
 **Use this when**: You want complete documentation and reference materials.
 

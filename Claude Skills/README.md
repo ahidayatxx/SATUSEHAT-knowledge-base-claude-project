@@ -8,7 +8,7 @@ This package contains a production-ready Claude Skill for accessing Indonesia's 
 
 1. **satusehat-knowledge-base.skill** (14KB)
    - Installable skill package
-   - Double-click to install in Claude Desktop
+   - Upload through Settings → Capabilities → Skills in Claude Desktop
    - Contains complete skill with reference files
 
 2. **SATUSEHAT_SKILL_INSTALLATION_GUIDE.md** (13KB)
@@ -46,7 +46,7 @@ This package contains a production-ready Claude Skill for accessing Indonesia's 
 # - Tavily MCP Server configured with API key
 
 # 2. Install Skill
-# Double-click: satusehat-knowledge-base.skill
+# Upload ZIP file through Settings → Capabilities → Skills
 
 # 3. Test Installation
 # Open Claude Desktop and ask:
