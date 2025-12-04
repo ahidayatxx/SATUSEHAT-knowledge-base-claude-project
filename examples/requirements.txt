@@ -1,0 +1,47 @@
+# SATUSEHAT EMR Integration - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+requests==2.31.0           # HTTP client for SATUSEHAT API
+pydantic==2.5.0            # Data validation and settings management
+python-dotenv==1.0.0       # Environment variable management
+
+# Async/Background Tasks
+celery==5.3.4              # Distributed task queue
+redis==5.0.1               # Message broker for Celery
+
+# Database (choose your ORM)
+sqlalchemy==2.0.23         # SQL toolkit and ORM
+psycopg2-binary==2.9.9     # PostgreSQL adapter
+alembic==1.13.0            # Database migrations
+
+# FHIR Tools
+fhir.resources==7.1.0      # FHIR R4 resource models
+jsonschema==4.20.0         # JSON schema validation
+
+# Date/Time Handling
+python-dateutil==2.8.2     # Date parsing utilities
+pytz==2023.3               # Timezone support
+
+# Utilities
+pyyaml==6.0.1              # YAML configuration parsing
+python-json-logger==2.0.7  # Structured logging
+
+# Testing
+pytest==7.4.3              # Testing framework
+pytest-cov==4.1.0          # Coverage reporting
+pytest-mock==3.12.0        # Mocking utilities
+faker==20.1.0              # Generate fake data for testing
+
+# Development Tools
+black==23.12.0             # Code formatter
+flake8==6.1.0              # Linter
+mypy==1.7.1                # Static type checker
+pre-commit==3.6.0          # Git hooks framework
+
+# Monitoring (Optional)
+sentry-sdk==1.39.1         # Error tracking
+prometheus-client==0.19.0  # Metrics collection
+
+# Security
+cryptography==41.0.7       # Cryptographic recipes
